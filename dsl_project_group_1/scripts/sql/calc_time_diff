@@ -1,0 +1,3 @@
+select *, end_time-start_time as time_diff from simulation
+where fk_algorithm_id=1
+order by time_diff DESC
