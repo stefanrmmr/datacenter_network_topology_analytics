@@ -1,4 +1,4 @@
-# Performance Benchmarking & Data Analytics for the Comparison of Multiple Data-Centre Network Topologies & CERBERUS
+# Performance Benchmarking & Data Analytics for the Comparison of Multiple Data-Centre Network Topologies
 
 > Final project report for lab course "Data Science & Machine Learning" <br>TUMunich, Chair of Communication Networks (LKN), summer 2021
 
